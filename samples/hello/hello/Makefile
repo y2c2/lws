@@ -1,0 +1,2 @@
+default:
+	../../../lws hello.js

@@ -1,0 +1,7 @@
+*.a
+*.so
+*.dll
+*.lib
+build
+.vscode
+.vimrc

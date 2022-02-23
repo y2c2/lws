@@ -1,0 +1,12 @@
+[submodule "deps/qv"]
+	path = deps/qv
+	url = https://github.com/y2c2/libqv.git
+[submodule "deps/xenonjs"]
+	path = deps/xenonjs
+	url = https://github.com/y2c2/xenonjs.git
+[submodule "deps/httpparse"]
+	path = deps/httpparse
+	url = https://github.com/y2c2/httpparse.git
+[submodule "deps/libujson"]
+	path = deps/libujson
+	url = https://github.com/y2c2/ujson.git
